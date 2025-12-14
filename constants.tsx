@@ -22,8 +22,8 @@ import { VscVscode } from 'react-icons/vsc';
 import { Experience, Project, Education, SkillCategory, Achievement } from './types';
 
 // Using simple filename. Ensure raushan.jpg is in the same folder as index.html
-export const PROFILE_IMAGE_URL = "./raushan.jpg";
-export const HCL_LOGO="./hcl-logo.jpeg"
+export const PROFILE_IMAGE_URL = "./assets/raushan.jpg";
+export const HCL_LOGO="./assets/hcl-logo.jpeg"
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/raushan-srivastava-128732281",
