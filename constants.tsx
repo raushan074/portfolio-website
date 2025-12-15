@@ -22,7 +22,7 @@ import { VscVscode } from 'react-icons/vsc';
 import { Experience, Project, Education, SkillCategory, Achievement } from './types';
 
 // Using simple filename. Ensure raushan.jpg is in the same folder as index.html
-export const PROFILE_IMAGE_URL = "./raushan-image.png";
+export const PROFILE_IMAGE_URL = "./raushan-img.png";
 export const HCL_LOGO="./hcl-logo.jpeg"
 
 export const SOCIAL_LINKS = {
